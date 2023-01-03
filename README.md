@@ -51,7 +51,7 @@ pip3 install -r requirements.txt
 
 配置效果图：
 
-<img src="imgs/1.jpg" alt="效果图" style="zoom:80%;" />
+![](/imgs/1.jpg)
 
 
 
